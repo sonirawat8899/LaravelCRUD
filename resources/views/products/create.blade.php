@@ -16,7 +16,7 @@
 
 <ul class="navbar-nav">
   <li class="nav-item">
-    <a class="nav-link text-light"  href="/">Products</a>
+    <a class="nav-link text-light"  href="/">PRODUCT</a>
   </li>
   
 </ul>
